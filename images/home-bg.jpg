@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+
+		<title>Page not found &#8211; Imate</title>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="alternate" type="application/rss+xml" title="Imate &raquo; Feed" href="#feed/">
+<link rel="alternate" type="application/rss+xml" title="Imate &raquo; Comments Feed" href="#comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/promo-theme.com\/imate\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.10"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" media="all">
+<link rel="stylesheet" id="wc-block-vendors-style-css" href="../css/vendors-style.css" media="all">
+<link rel="stylesheet" id="wc-block-style-css" href="../css/style_1.css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="imate-iconpicker-css" href="../css/iconfont.css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="../css/font-awesome.min.css" media="all">
+<link rel="stylesheet" id="imate-style-default-css" href="../css/style.css" media="all">
+<link rel="stylesheet" id="vc_font_awesome_5_shims-css" href="../css/v4-shims.min.css" media="all">
+<link rel="stylesheet" id="vc_font_awesome_5-css" href="../css/all.min.css" media="all">
+<link rel="stylesheet" id="imate-frontend-grid-css" href="../css/frontend-grid.css" media="all">
+<link rel="stylesheet" id="photoswipe-css" href="../css/photoswipe.min.css" media="all">
+<link rel="stylesheet" id="photoswipe-default-skin-css" href="../css/default-skin.min.css" media="all">
+<link rel="stylesheet" id="imate-circle-animations-css" href="../css/circle_animations.css" media="all">
+<link rel="stylesheet" id="imate-style-css" href="../css/style_2.css" media="all">
+<link rel="stylesheet" id="woocommerce-general-css" href="../css/woocommerce.css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="../css/woocommerce-layout.css" media="all">
+<link rel="stylesheet" id="imate-mobile-css" href="../css/mobile.css" media="all">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7CPoppins%20Condensed&#038;display=swap&#038;ver=1592220295"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7CPoppins%20Condensed&amp;display=swap&amp;ver=1592220295" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7CPoppins%20Condensed&amp;display=swap&amp;ver=1592220295"></noscript><link rel="stylesheet" id="pt-addons-css" href="../css/pt-addons.css" media="all">
+<script src="https://code.jquery.com/jquery-1.12.4.min.js?ver=1.12.4" id="jquery-core-js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js?ver=1.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="zilla-likes-js-extra">
+/* <![CDATA[ */
+var zilla_likes = {"ajaxurl":"https:\/\/promo-theme.com\/imate\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="../js/zilla-likes.js" id="zilla-likes-js"></script>
+<script src="../js/jquery.blockUI.min.js" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/imate\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/imate\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/promo-theme.com\/imate\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script src="../js/add-to-cart.min.js" id="wc-add-to-cart-js"></script>
+<script src="../js/woocommerce-add-to-cart.js" id="vc_woocommerce-add-to-cart-js-js"></script>
+<link rel="https://api.w.org/" href="#wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="#xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="#wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.6.10">
+<meta name="generator" content="WooCommerce 5.0.3">
+<meta name="framework" content="Redux 4.1.24">	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<link rel="icon" href="cropped-favicon-100x100.png" sizes="32x32">
+<link rel="icon" href="cropped-favicon-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="cropped-favicon-300x300.png">
+<meta name="msapplication-TileImage" content="#wp-content/uploads/2018/11/cropped-favicon-300x300.png">
+<style id="imate_theme-dynamic-css" title="dynamic-css" class="redux-options-output">.site-header .logo img, .side-header .logo img, .side-bar-area .logo img, .site-header .logo a, .side-header .logo a, .site-footer .logo a{width:89.5px;}body{font-family:Poppins;font-weight:400;font-style:normal;color:#0e1116;font-size:16px;font-display:swap;}h1, .h1{font-family:Poppins;font-weight:700;font-style:normal;font-size:60px;font-display:swap;}h2, .h2{font-family:Poppins;font-weight:700;font-style:normal;font-size:48px;font-display:swap;}h3, .h3{font-family:Poppins;font-weight:700;font-style:normal;font-size:36px;font-display:swap;}h4, .h4{font-family:Poppins;font-weight:700;font-style:normal;font-size:30px;font-display:swap;}h5, .h5{font-family:Poppins;font-weight:700;font-style:normal;font-size:24px;font-display:swap;}h6, .h6{font-family:Poppins;font-weight:700;font-style:normal;font-size:18px;font-display:swap;}.site-footer .logo img{width:89.5px;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	</head>
+	
+	<body class="error404 theme-imate woocommerce-no-js group-blog hfeed header-type-logo-left header-nav-type-visible_menu header-space-no header-container-container popup_download_yes project_details_yes grid_lines_no site-light full-page-mode header-decor-line unknown wpb-js-composer js-comp-ver-6.6.0 vc_responsive">
+		<div id="all" class="site">
+							<div class="preloader-area">
+					<div class="preloader-folding-cube">
+						<div class="preloader-cube1 preloader-cube"></div>
+						<div class="preloader-cube2 preloader-cube"></div>
+						<div class="preloader-cube4 preloader-cube"></div>
+						<div class="preloader-cube3 preloader-cube"></div>
+					</div>
+				</div>
+							<header class="site-header  dark header_logo-left main-row">
+					<div class="container">
+						<div class="logo"><a href="#"><img class="light l-b" src="logo-light.png" alt="Imate"><img class="dark l-b" src="logo-dark.png" alt="Imate"></a></div>
+						<div class="fr">
+															<nav class="navigation visible_menu"><ul id="menu-navigation" class="menu"><li id="menu-item-310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-310"><a href="#"><span>Home</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-319"><a href="#"><span>Classic Business</span></a></li>
+	<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="#event/"><span>Event</span></a></li>
+	<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="#coach-mentor/"><span>Coach &#038; Mentor</span></a></li>
+	<li id="menu-item-528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528"><a href="#personal/"><span>Personal</span></a></li>
+	<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="#agency/"><span>Agency</span></a></li>
+	<li id="menu-item-559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-559"><a href="#startup/"><span>StartUp</span></a></li>
+</ul>
+</li>
+<li id="menu-item-311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-311"><a href="#"><span>Pages</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-318"><a href="#404-page"><span>404 Page</span></a></li>
+	<li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="#about-us/"><span>About Us</span></a></li>
+	<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="#about-me/"><span>About Me</span></a></li>
+	<li id="menu-item-593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-593"><a href="#coming-soon/"><span>Coming Soon</span></a></li>
+	<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="#services/"><span>Services</span></a></li>
+</ul>
+</li>
+<li id="menu-item-313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-313"><a href="#"><span>Blog</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="#blog-grid/"><span>Blog Grid</span></a></li>
+	<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="#blog-grid-sidebar/"><span>Blog Grid Sidebar</span></a></li>
+</ul>
+</li>
+<li id="menu-item-784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-784"><a href="#"><span>Gallery</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-785"><a href="#"><span>Grid</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793"><a href="#gallery/grid/col-2/"><span>Col 2</span></a></li>
+		<li id="menu-item-792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-792"><a href="#gallery/grid/col-3/"><span>Col 3</span></a></li>
+		<li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-791"><a href="#gallery/grid/col-4/"><span>Col 4</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-786"><a href="#"><span>Masonry</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790"><a href="#gallery/masonry/col-2/"><span>Col 2</span></a></li>
+		<li id="menu-item-789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-789"><a href="#gallery/masonry/col-3/"><span>Col 3</span></a></li>
+		<li id="menu-item-788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="#gallery/masonry/col-4/"><span>Col 4</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="#gallery/gallery-with-filter/"><span>Gallery with filter</span></a></li>
+</ul>
+</li>
+<li id="menu-item-323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-323"><a href="#"><span>Shop</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="#shop/"><span>Product List</span></a></li>
+	<li id="menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="#product-list-sidebar/"><span>Product List Sidebar</span></a></li>
+	<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="#my-account/"><span>My Account</span></a></li>
+	<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="#checkout/"><span>Checkout</span></a></li>
+	<li id="menu-item-326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326"><a href="#cart/"><span>Cart</span></a></li>
+</ul>
+</li>
+<li id="menu-item-312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-312"><a href="#"><span>Contacts</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="#contacts/"><span>Contacts</span></a></li>
+	<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="#contacts-2/"><span>Contacts 2</span></a></li>
+</ul>
+</li>
+</ul></nav>
+								<div class="butter-button visible_menu"><div></div></div>
+															<div class="header-minicart woocommerce header-minicart-imate">
+																		<div class="hm-cunt"><i class="base-icons-shopping-cart"></i><span>0</span></div>
+																		<div class="minicart-wrap">
+										
+
+<ul class="cart_list product_list_widget ">
+
+	
+		<li class="empty">No products in the cart.</li>
+
+	
+</ul><!-- end product list -->
+
+
+									</div>
+								</div>
+															<div class="search-button"><i class="base-icons-magnifying-glass"></i></div>
+													</div>
+					</div>
+				</header>
+							<div class="header-space hide"></div>
+							<div class="search-popup main-row">
+					<div class="close base-icons-cancel"></div>
+					<div class="centered-container"><form role="search" method="get" class="searchform" action="#">
+	<button type="submit" class="searchsubmit" value><i class="base-icons-magnifying-glass"></i></button>
+	<div><input type="text" value placeholder="Type and hit enter" name="s" class="input"></div>
+</form></div>
+				</div>
+			
+	<div class="banner-area on-top banner-404 social-buttons-align-right current-white">
+		            <div class="banner-social-buttons"><div><i class="base-icons-share"></i><a href="#" target="_self"><i class="social-media-elements-facebook"></i> <span>Facebook</span></a><a href="#" target="_self"><i class="social-media-elements-twitter"></i> <span>Twitter</span></a><a href="#" target="_self"><i class="social-media-elements-instagram"></i> <span>Instagram</span></a></div></div>
+        	    <div class="banner">
+	        <div class="item white middle tal" style="background-image: url(slide12.jpg)">
+	            <div class="container">
+	                <div class="cell">
+	                    							<div class="sub-h">Oooops...</div>
+													<h1 class="h">404 Error... You are on<br>
+a non existing page!</h1>
+												<div class="link-area"><a href="#" class="button-style1" target="_self"><span>get back home</span></a></div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+
+		</div>
+
+			<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script src="../js/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script id="wp-polyfill-js-after">
+( 'fetch' in window ) || document.write( '<script src="#wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="#wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="#wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="#wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="#wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="#wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script src="../js/i18n.min.js" id="wp-i18n-js"></script>
+<script src="../js/lodash.min.js" id="lodash-js"></script>
+<script id="lodash-js-after">
+window.lodash = _.noConflict();
+</script>
+<script src="../js/url.min.js" id="wp-url-js"></script>
+<script src="../js/hooks.min.js" id="wp-hooks-js"></script>
+<script id="wp-api-fetch-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script src="../js/api-fetch.min.js" id="wp-api-fetch-js"></script>
+<script id="wp-api-fetch-js-after">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "#wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "fd39182e7b" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "#wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"cached":"1"};
+/* ]]> */
+</script>
+<script src="../js/index.js" id="contact-form-7-js"></script>
+<script src="../js/js.cookie.min.js" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/imate\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/imate\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="../js/woocommerce.min.js" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/imate\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/imate\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_2f97dd545ee1b21f5bd770e197b11d43","fragment_name":"wc_fragments_2f97dd545ee1b21f5bd770e197b11d43","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script src="../js/cart-fragments.min.js" id="wc-cart-fragments-js"></script>
+<script src="../js/jquery.scrollbar.min.js" id="scrollbar-js"></script>
+<script src="../js/skip-link-focus-fix.js" id="imate-skip-link-focus-fix-js"></script>
+<script src="../js/jquery.waypoints.min.js" id="waypoints-js"></script>
+<script src="../js/imagesloaded.min.js" id="imagesloaded-js"></script>
+<script src="../js/isotope.pkgd.min.js" id="isotope-js"></script>
+<script src="../js/photoswipe.min.js" id="photoswipe-js"></script>
+<script src="../js/photoswipe-ui-default.min.js" id="photoswipe-ui-default-js"></script>
+<script src="../js/script.js" id="imate-script-js"></script>
+<script src="../js/plugins.js" id="imate-plugins-js"></script>
+<script src="../js/load-posts.js" id="pt-load-posts-js"></script>
+<script type="text/javascript" id="pt-scripts-js-extra">
+/* <![CDATA[ */
+var yprm_ajax = {"url":"https:\/\/promo-theme.com\/imate\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="../js/scripts.js" id="pt-scripts-js"></script>
+<script src="../js/js_composer_front.min.js" id="js_composer_front-js"></script>
+<script src="../js/wp-embed.min.js" id="wp-embed-js"></script>
+
+	</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 113/307 objects using disk
+Page Caching using disk: enhanced (Page is 404) 
+Database Caching using disk (Request-wide modification query)
+
+Served from: promo-theme.com @ 2023-02-25 16:41:11 by W3 Total Cache
+-->
